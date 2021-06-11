@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.rikap.vercel.app/api/top-langs/?username=rikap&langs_count=8&layout=compact&theme=monokai)
-
 <!--
 **RiKap/RiKap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
